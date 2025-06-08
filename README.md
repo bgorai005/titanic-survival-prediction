@@ -34,4 +34,5 @@ The dataset used for this project is the [Titanic Dataset](https://www.kaggle.co
 To run this project, you need to have Python installed along with the following libraries:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
+```
